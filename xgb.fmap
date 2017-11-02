@@ -1,0 +1,15 @@
+0	finishedsquarefeet12	q
+1	taxamount	q
+2	taxvaluedollarcnt	q
+3	transaction_year	q
+4	transaction_month	q
+5	transaction_qtr	q
+6	mlt_finish_taxamt	q
+7	mlt_finish_taxdollar	q
+8	mlt_finish_taxamt_taxdollar	q
+9	div_finish_taxamt	q
+10	div_finish_taxdollar	q
+11	div_taxamt_taxdollar	q
+12	pow_finish	q
+13	pow_taxdollar	q
+14	pow_taxamt	q
